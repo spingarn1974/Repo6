@@ -1,0 +1,17 @@
+---
+title: "practice1"
+author: "James Dickens"
+date: "9/14/2020"
+output: word_document
+---
+
+```{r}
+
+
+# this a practice activity
+log(147)
+library(tidyverse)
+mpg
+
+
+```
