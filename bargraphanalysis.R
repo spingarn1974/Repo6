@@ -2,7 +2,7 @@ library(ggplot2)
 library(tidyverse)
 #Creating a basic bar graph using raw counts values from data sets
 #  (Tidyverse/ggplot method)  Chapter 1
-
+#Ana Lim
 
 #Let's create barg graphs from the mpg data frame
 
