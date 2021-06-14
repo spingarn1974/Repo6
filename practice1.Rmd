@@ -9,6 +9,8 @@ output: word_document
 
 # New comment from Rajeev
 
+# Another small change by Rajeev
+
 # this a practice activity
 log(147)
 library(tidyverse)
