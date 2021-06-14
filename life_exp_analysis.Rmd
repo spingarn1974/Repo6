@@ -13,3 +13,6 @@ gapminder_unfiltered
 # Abstract
 Here, I re-examine the analysis of Oepppen and Vaupel (2002).
 # Analysis
+
+#Madeleine's Changes Here
+#June 13, 2021
