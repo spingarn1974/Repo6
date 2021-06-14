@@ -7,7 +7,7 @@ output: word_document
 
 ```{r}
 
-
+#  james dickens
 # this a practice activity
 log(147)
 library(tidyverse)
