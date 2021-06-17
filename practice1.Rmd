@@ -8,6 +8,7 @@ output: word_document
 ```{r}
 
 #  james dickens
+#  DOB 5/18/56
 # this a practice activity
 log(147)
 library(tidyverse)
